@@ -1,0 +1,19 @@
+{
+  "name": "test_heydi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "convert-excel-to-json": "^1.6.1",
+    "copy-files": "^0.1.0",
+    "fs-extra": "^7.0.1",
+    "graceful-fs": "^4.1.15",
+    "ncp": "^2.0.0"
+  }
+}
